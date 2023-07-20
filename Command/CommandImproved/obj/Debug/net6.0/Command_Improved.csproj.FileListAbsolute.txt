@@ -1,0 +1,15 @@
+D:\idc maybe i do tho - 2\Command\CommandImproved\bin\Debug\net6.0\Command_Improved.exe
+D:\idc maybe i do tho - 2\Command\CommandImproved\bin\Debug\net6.0\Command_Improved.deps.json
+D:\idc maybe i do tho - 2\Command\CommandImproved\bin\Debug\net6.0\Command_Improved.runtimeconfig.json
+D:\idc maybe i do tho - 2\Command\CommandImproved\bin\Debug\net6.0\Command_Improved.dll
+D:\idc maybe i do tho - 2\Command\CommandImproved\bin\Debug\net6.0\Command_Improved.pdb
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.csproj.AssemblyReference.cache
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.GeneratedMSBuildEditorConfig.editorconfig
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.AssemblyInfoInputs.cache
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.AssemblyInfo.cs
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.csproj.CoreCompileInputs.cache
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.dll
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\refint\Command_Improved.dll
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.pdb
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\Command_Improved.genruntimeconfig.cache
+D:\idc maybe i do tho - 2\Command\CommandImproved\obj\Debug\net6.0\ref\Command_Improved.dll

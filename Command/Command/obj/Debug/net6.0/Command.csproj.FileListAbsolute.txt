@@ -1,0 +1,15 @@
+D:\idc maybe i do tho - 2\Command\Command\bin\Debug\net6.0\Command.exe
+D:\idc maybe i do tho - 2\Command\Command\bin\Debug\net6.0\Command.deps.json
+D:\idc maybe i do tho - 2\Command\Command\bin\Debug\net6.0\Command.runtimeconfig.json
+D:\idc maybe i do tho - 2\Command\Command\bin\Debug\net6.0\Command.dll
+D:\idc maybe i do tho - 2\Command\Command\bin\Debug\net6.0\Command.pdb
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.csproj.AssemblyReference.cache
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.AssemblyInfoInputs.cache
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.AssemblyInfo.cs
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.csproj.CoreCompileInputs.cache
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.dll
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\refint\Command.dll
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.pdb
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\Command.genruntimeconfig.cache
+D:\idc maybe i do tho - 2\Command\Command\obj\Debug\net6.0\ref\Command.dll
