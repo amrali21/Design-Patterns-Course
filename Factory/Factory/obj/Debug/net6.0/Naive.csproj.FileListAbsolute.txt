@@ -1,0 +1,15 @@
+D:\idc maybe i do tho - 2\Factory\Factory\bin\Debug\net6.0\Naive.exe
+D:\idc maybe i do tho - 2\Factory\Factory\bin\Debug\net6.0\Naive.deps.json
+D:\idc maybe i do tho - 2\Factory\Factory\bin\Debug\net6.0\Naive.runtimeconfig.json
+D:\idc maybe i do tho - 2\Factory\Factory\bin\Debug\net6.0\Naive.dll
+D:\idc maybe i do tho - 2\Factory\Factory\bin\Debug\net6.0\Naive.pdb
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.csproj.AssemblyReference.cache
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.GeneratedMSBuildEditorConfig.editorconfig
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.AssemblyInfoInputs.cache
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.AssemblyInfo.cs
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.csproj.CoreCompileInputs.cache
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.dll
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\refint\Naive.dll
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.pdb
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\Naive.genruntimeconfig.cache
+D:\idc maybe i do tho - 2\Factory\Factory\obj\Debug\net6.0\ref\Naive.dll
