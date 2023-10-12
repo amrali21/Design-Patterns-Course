@@ -1,0 +1,30 @@
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\bin\Debug\net6.0\ObserverImproved.exe
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\bin\Debug\net6.0\ObserverImproved.deps.json
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\bin\Debug\net6.0\ObserverImproved.runtimeconfig.json
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\bin\Debug\net6.0\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\bin\Debug\net6.0\ObserverImproved.pdb
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.csproj.AssemblyReference.cache
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.GeneratedMSBuildEditorConfig.editorconfig
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.AssemblyInfoInputs.cache
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.AssemblyInfo.cs
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.csproj.CoreCompileInputs.cache
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\refint\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.pdb
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ObserverImproved.genruntimeconfig.cache
+D:\idc maybe i do tho - 2\Observer\ObserverImproved\obj\Debug\net6.0\ref\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\bin\Debug\net6.0\ObserverImproved.exe
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\bin\Debug\net6.0\ObserverImproved.deps.json
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\bin\Debug\net6.0\ObserverImproved.runtimeconfig.json
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\bin\Debug\net6.0\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\bin\Debug\net6.0\ObserverImproved.pdb
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.csproj.AssemblyReference.cache
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.GeneratedMSBuildEditorConfig.editorconfig
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.AssemblyInfoInputs.cache
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.AssemblyInfo.cs
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.csproj.CoreCompileInputs.cache
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\refint\ObserverImproved.dll
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.pdb
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ObserverImproved.genruntimeconfig.cache
+D:\idc maybe i do tho - 2\Observer - Stocks\ObserverImproved\obj\Debug\net6.0\ref\ObserverImproved.dll
